@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "386170893253",
+    "project_id": "sakandb-8613e",
+    "storage_bucket": "sakandb-8613e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386170893253:android:d2102b4700ba00df5651ac",
+        "android_client_info": {
+          "package_name": "com.example.sakan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386170893253-pkps8qrdl28gkpqc6g2hitcs615t4hev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOTYZFsp_hGcwYhyF29Uq_yGJ_5D3JRwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386170893253-pkps8qrdl28gkpqc6g2hitcs615t4hev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
